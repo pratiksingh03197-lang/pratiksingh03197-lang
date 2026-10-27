@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/pratiksingh03197-lang/jarvis-local-assistant"><strong>Explore JARVIS</strong></a> ·
+  <a href="https://kervo-manufacturing-ops.syrupyswift.chatgpt.site"><strong>Live Kervo website</strong></a> ·
   <a href="https://github.com/pratiksingh03197-lang/project-portfolio"><strong>Project portfolio</strong></a> ·
   <a href="https://www.upwork.com/freelancers/~017015f91a8905df56"><strong>Work with me</strong></a>
 </p>
@@ -32,7 +33,7 @@ At **GC Foods**, I handle AI decisions and functionality through development, in
 | Project | What I built | Current stage |
 | --- | --- | --- |
 | [Manufacturing operations & workforce SaaS](https://github.com/pratiksingh03197-lang/project-portfolio/blob/main/case-studies/manufacturing-operations.md) | Production planning, attendance, workstation ownership, task routing and reporting with React, TypeScript and PostgreSQL. | Functional beta |
-| [Kervo product website](https://github.com/pratiksingh03197-lang/project-portfolio/blob/main/case-studies/kervo-website.md) | A responsive B2B website presenting a manufacturing operations product. | Published marketing site |
+| [Kervo product website](https://kervo-manufacturing-ops.syrupyswift.chatgpt.site) | A responsive B2B website presenting a manufacturing operations product. [Read the case study →](https://github.com/pratiksingh03197-lang/project-portfolio/blob/main/case-studies/kervo-website.md) | Published marketing site |
 | [Make AI email workflow](https://github.com/pratiksingh03197-lang/project-portfolio/blob/main/case-studies/make-email-automation.md) | Gmail → Gemini AI → reply draft → Google Calendar workflow configuration. | Prototype; validation pending |
 | [n8n sales-data automation](https://github.com/pratiksingh03197-lang/project-portfolio/blob/main/case-studies/n8n-sales-data.md) | Automation work supporting sales-data tasks. | Experience summary |
 | [Personal planning dashboard](https://github.com/pratiksingh03197-lang/project-portfolio/blob/main/case-studies/personal-planning-dashboard.md) | Daily checklists, notes, scoring, reporting and JSON backups in a local web app. | Local implementation |
