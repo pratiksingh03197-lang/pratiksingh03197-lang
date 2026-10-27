@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Pratik Singh</title>
+  <desc id="desc">AI automation, voice assistants and manufacturing software. Build useful systems.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0c1426"/><stop offset="1" stop-color="#142d42"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#65e9cc"/><stop offset="1" stop-color="#6ab9ff"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8bc6e7" stroke-opacity=".05"/></pattern>
+  </defs>
+  <rect width="1280" height="360" rx="20" fill="url(#bg)"/>
+  <rect width="1280" height="360" rx="20" fill="url(#grid)"/>
+  <rect x="64" y="62" width="44" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="64" y="110" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="4" fill="#82dbc9">BUILD USEFUL SYSTEMS</text>
+  <text x="60" y="190" font-family="Segoe UI,Arial,sans-serif" font-size="66" font-weight="700" letter-spacing="-2" fill="#f4f8fc">Pratik Singh</text>
+  <text x="64" y="237" font-family="Segoe UI,Arial,sans-serif" font-size="23" fill="#b7ccdd">AI automation · Voice assistants · Manufacturing software</text>
+  <text x="64" y="299" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="1.6" fill="#93b1c8">PYTHON / n8n / MAKE / REACT / TYPESCRIPT</text>
+  <g fill="none" stroke="#75dccd" stroke-opacity=".4" stroke-width="1.5">
+    <path d="M968 83L1110 137L1070 274L929 222Z"/><path d="M968 83L1070 274M1110 137L929 222"/>
+    <circle cx="1017" cy="177" r="96" stroke-opacity=".12"/>
+    <circle cx="1017" cy="177" r="126" stroke-opacity=".08"/>
+  </g>
+  <g fill="#0e2234" stroke="#73deca" stroke-width="2"><circle cx="968" cy="83" r="9"/><circle cx="1110" cy="137" r="9"/><circle cx="1070" cy="274" r="9"/><circle cx="929" cy="222" r="9"/></g>
+  <circle cx="1017" cy="177" r="26" fill="#1b4553" stroke="#7fe6cf" stroke-width="2"/>
+  <path d="M1005 177L1014 186L1030 168" fill="none" stroke="#b2f3e3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
