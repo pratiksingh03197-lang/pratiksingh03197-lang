@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/pratiksingh03197-lang/jarvis-local-assistant"><strong>Explore JARVIS</strong></a> ·
+  <a href="https://github.com/pratiksingh03197-lang/jarvis-local-assistant/blob/main/README.md#run-the-live-web-demo-without-a-microphone"><strong>JARVIS demo guide</strong></a> ·
   <a href="https://kervo-manufacturing-ops.syrupyswift.chatgpt.site"><strong>Live Kervo website</strong></a> ·
   <a href="https://github.com/pratiksingh03197-lang/project-portfolio"><strong>Project portfolio</strong></a> ·
   <a href="https://www.upwork.com/freelancers/~017015f91a8905df56"><strong>Work with me</strong></a>
@@ -15,19 +15,19 @@ I build AI assistants, workflow automations and software for everyday business o
 
 At **GC Foods**, I handle AI decisions and functionality through development, integration and deployment, alongside e-commerce and quick-commerce responsibilities. My current focus is local voice assistants, manufacturing workflows and practical automation with Python, n8n and Make.
 
-## Latest project · JARVIS
+## Latest project · JARVIS + SerpApi
 
 **A local AI voice assistant for Windows**, built with Python, faster-whisper, openWakeWord and Ollama.
 
 - Wake-word activation and English, Hindi and Hinglish speech recognition.
 - Local model conversations and spoken responses.
-- A controlled set of Windows app launches and confirmation before Google or YouTube searches.
-- Microphone diagnostics, adaptive recording and transcription safeguards.
+- Confirmed Google searches through SerpApi, followed by a Hindi or English summary with numbered source links.
+- A typed no-microphone demo mode for reliable walkthroughs.
 
-**Status:** Working prototype under active development. Recognition and responsiveness are still being improved.
+**Status:** Working prototype under active development. The live search needs a private SerpApi key in a local, Git-ignored `.env` file; the live API path has not yet been run with a configured key.
 
-[View source, setup and supported commands →](https://github.com/pratiksingh03197-lang/jarvis-local-assistant)
-
+[Explore JARVIS source and setup →](https://github.com/pratiksingh03197-lang/jarvis-local-assistant)
+[Open the live-search demo guide →](https://github.com/pratiksingh03197-lang/jarvis-local-assistant/blob/main/README.md#run-the-live-web-demo-without-a-microphone)
 ## Selected work
 
 | Project | What I built | Current stage |
@@ -55,4 +55,4 @@ I'm open to **AI automation, assistant development and business workflow project
 
 [Discuss a project on Upwork →](https://www.upwork.com/freelancers/~017015f91a8905df56)
 
-<sub>Portfolio updated October 28, 2026. Project pages distinguish implemented features, prototypes and pending validation.</sub>
+<sub>Portfolio updated October 31, 2026. Project pages distinguish implemented features, prototypes and pending validation.</sub>
