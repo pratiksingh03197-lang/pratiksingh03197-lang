@@ -15,19 +15,20 @@ I build AI assistants, workflow automations and software for everyday business o
 
 At **GC Foods**, I handle AI decisions and functionality through development, integration and deployment, alongside e-commerce and quick-commerce responsibilities. My current focus is local voice assistants, manufacturing workflows and practical automation with Python, n8n and Make.
 
-## Latest project · JARVIS + SerpApi
+## Latest project · JARVIS desktop assistant
 
-**A local AI voice assistant for Windows**, built with Python, faster-whisper, openWakeWord and Ollama.
+**A Windows voice and text assistant** built in Python, with Hindi, English and Hinglish support.
 
-- Wake-word activation and English, Hindi and Hinglish speech recognition.
-- Local model conversations and spoken responses.
-- Confirmed Google searches through SerpApi, followed by a Hindi or English summary with numbered source links.
-- A typed no-microphone demo mode for reliable walkthroughs.
+- Local wake-word activation, voice capture and speech recognition, with optional Gemini or Groq online transcription and chat.
+- A desktop preview with typed chat, start/stop listening, microphone diagnostics, speech-language selection and spoken replies.
+- Confirmed Google searches through SerpApi, with visible numbered source links and summaries grounded in returned excerpts.
+- A fixed local action allowlist keeps Windows controls separate from cloud model responses.
 
-**Status:** Working prototype under active development. The live search needs a private SerpApi key in a local, Git-ignored `.env` file; the live API path has not yet been run with a configured key.
+**Status:** Working prototype under active development. The public repository now includes the latest Windows desktop source and setup guide. SerpApi live search requires your own private key; the live API path still needs validation with a configured key.
 
 [Explore JARVIS source and setup →](https://github.com/pratiksingh03197-lang/jarvis-local-assistant)
 [Open the live-search demo guide →](https://github.com/pratiksingh03197-lang/jarvis-local-assistant/blob/main/README.md#run-the-live-web-demo-without-a-microphone)
+
 ## Selected work
 
 | Project | What I built | Current stage |
