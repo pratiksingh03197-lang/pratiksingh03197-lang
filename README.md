@@ -44,7 +44,7 @@ At **GC Foods**, I handle AI decisions and functionality through development, in
 
 | Area | Tools and technologies |
 | --- | --- |
-| AI & voice | Python, Ollama, faster-whisper, openWakeWord, speech processing |
+| AI & voice | Python, Ollama, faster-whisper, openWakeWord, Gemini, Groq, SerpApi, speech processing |
 | Workflow automation | n8n, Make, Gemini AI, Gmail, Google Calendar |
 | Web applications | React, TypeScript, Vite, Tailwind CSS, TanStack |
 | Data & backend | PostgreSQL, Supabase, Drizzle |
@@ -56,4 +56,4 @@ I'm open to **AI automation, assistant development and business workflow project
 
 [Discuss a project on Upwork →](https://www.upwork.com/freelancers/~017015f91a8905df56)
 
-<sub>Portfolio updated October 31, 2026. Project pages distinguish implemented features, prototypes and pending validation.</sub>
+<sub>Portfolio updated November 7, 2026. Project pages distinguish implemented features, prototypes and pending validation.</sub>
